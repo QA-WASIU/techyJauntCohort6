@@ -63,7 +63,7 @@ docker-compose up --build
 
 We welcome alumni developers, designers, PMs, and security experts.
 
-See docs/CONTRIBUTIND.md on how to contribute to this repository.
+See docs/CONTRIBUTING.md on how to contribute to this repository.
 
 ---
 
