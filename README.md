@@ -63,7 +63,7 @@ docker-compose up --build
 
 We welcome alumni developers, designers, PMs, and security experts.
 
-See [`docs/CONTRIBUTING.md`](./docs/CONTRIBUTING.md) on how to contribute to this repository.
+See [https://github.com/QA-WASIU/techyJauntCohort6/blob/main/CONTRIBUTING.md}on how to contribute to this repository.
 
 ---
 
